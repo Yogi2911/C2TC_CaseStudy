@@ -1,4 +1,3 @@
-
 //Program to demonstrate Thread class methods
 package com.tnsif.multithreading;
 
